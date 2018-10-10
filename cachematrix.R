@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 ##Assumption: All matrices are invertible
 ## The function makes a matrix of cached inverted values
 
